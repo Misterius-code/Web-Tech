@@ -10,31 +10,43 @@ font-family: 'Amatic SC', cursive;;
 font-size: 30px;
 
 }
-h1,h2
+h1,h2,h4
 {
-    text-align: center;
+    text-align:left;
+    color:#EA8AA1;
+    width:150px;
     
 }
+
 #conntent
 {
     padding:3%;
 }
 nav
 {
-    background-color: #5986FF;
+    float
+    float:left;
+    width:250px;
 }
 nav ul{
-    width:130px;
+   
     margin-left: 30%;
     margin:0 auto
+
 }
 nav ul li{
     display:inline
 }
+nav ul li a{
+text-decoration: none;
+color:black;
 
+}
 section{
-    border:2px solid black;
+   background:color grey;
     padding:3%;
     width:26%;
 float:left;
+
 }
+#wrapper{}
