@@ -1,0 +1,39 @@
+*
+{
+    margin:0;
+padding:0;
+
+}
+body
+{
+font-family: 'Amatic SC', cursive;;
+font-size: 30px;
+
+}
+h1,h2
+{
+    text-align: center;
+}
+#conntent
+{
+    padding:3%;
+}
+nav
+{
+    background-color: #5986FF;
+}
+nav ul{
+    width:130px;
+    margin-left: 30%;
+    margin:0 auto
+}
+nav ul li{
+    display:inline
+}
+
+section{
+    border:2px solid black;
+    padding:3%;
+    width:27%;
+float:left;
+}
